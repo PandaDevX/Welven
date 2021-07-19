@@ -1,0 +1,11 @@
+name: Welven
+version: ${project.version}
+main: com.redspeaks.welven.Welven
+api-version: 1.16
+commands:
+  welven:
+    description: main command
+  giveitem:
+    description: give item command
+  class:
+    description: command to choose class again

@@ -1,0 +1,18 @@
+Items:
+  any_name:
+    type: 'IRON_SWORD'
+    class: 'warrior'
+    durability: -1
+    display-name: '&2Great Sword'
+    rarity: 'Uncommon Sword'
+    ids:
+      - 'Attack Damage:15'
+      - 'Attack Speed:2'
+      - 'Attack Range:3'
+      - 'Knockback:1'
+      - 'Health:2'
+      - 'Health Regen:12'
+      - 'Raw Health Regen:2'
+    lore:
+      - '&7Description here'
+    loot-chance: 12
